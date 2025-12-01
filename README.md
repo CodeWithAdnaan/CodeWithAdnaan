@@ -437,7 +437,7 @@
 <img src="./twitter.png" width=50 height=50 alt="adnaaa_nn" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/4dn4n.nn" target="_blank">
+<a href="https://www.instagram.com/4dn4n_nn" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="4dn4n.nn" style="margin-bottom: 5px;" />
 </a>
 
